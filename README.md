@@ -99,7 +99,7 @@
 
 ```bash
 # 克隆项目
-git clone https://github.com/goodguy123456789/video-downloader.git
+git clone https://github.com/goodguy123456789/Video-downloader.git
 cd video-downloader
 
 # 安装依赖
@@ -151,4 +151,4 @@ npm run build
 
 ## License
 
-[MIT](LICENSE) © 2024 goodguy123456789
+[MIT](LICENSE) © 2025 goodguy123456789
